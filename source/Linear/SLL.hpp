@@ -23,7 +23,7 @@ class Node {
 class SLL {
  private:
   Node* head;
-  // Node* tail; // Could be helpful!
+  Node* tail;
   unsigned int len;
 
  public:
